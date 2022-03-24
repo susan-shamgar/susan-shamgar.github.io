@@ -19,7 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Susan Aliza Shamgar
-email: susan.shamgar@gmail.com
+author:
+  name: Susan Aliza Shamgar
+  email: susan.shamgar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Technical Writer
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,7 +30,7 @@ twitter_username: bcthe8th
 github_username:  susan-shamgar
 
 # Minima custom bits
-minima:
+minima:   
   social_links:
     github: susan-shamgar
     twitter: bcthe8th
