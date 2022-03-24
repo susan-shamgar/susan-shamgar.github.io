@@ -30,6 +30,8 @@ github_username:  susan-shamgar
 # Minima custom bits
 minima:
   social_links:
+    github: susan-shamgar
+    twitter: bcthe8th
     linkedin: susan-shamgar
 
 # Build settings
