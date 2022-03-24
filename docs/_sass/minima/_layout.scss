@@ -116,7 +116,20 @@
   }
 }
 
+/**
+ * Columns
+ */
+.column {
+  float: left;
+}
 
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
 
 /**
  * Site footer
