@@ -30,7 +30,7 @@ github_username:  susan-shamgar
 # Minima custom bits
 minima:
   social_links:
-    linkedin: https://www.linkedin.com/in/susan-shamgar/
+    linkedin: susan-shamgar
 
 # Build settings
 theme: minima
