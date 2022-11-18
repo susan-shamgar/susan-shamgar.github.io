@@ -24,6 +24,14 @@ And more construction
 * Responsibility
 
 -------
+### Education
+#### San Jose State University
+Certificate in Professional and Technical Writing, May 2019
+
+#### University of California, Davis
+B.A. in American Studies, December 2013
+
+-------
 ### Skills
 <div class="skills">
 <span><h5>Software</h5>
@@ -42,3 +50,7 @@ And more construction
 <li>Python</li>
 </ul>
 </span>
+<span>
+<h5>Third Category</h5>
+</span>
+</div>
