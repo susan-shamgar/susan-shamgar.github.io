@@ -8,7 +8,9 @@ permalink: /about/
 Under construction
 
 And more construction
-![Let's put a picture here](/assets/img/LR_DSC.jpg)
+<!--![Let's put a picture here](/assets/img/LR_DSC.jpg)-->
+
+<img src="/assets/img/LR_DSC.jpg" width="200px"/>
 
 -------
 ### Work History
