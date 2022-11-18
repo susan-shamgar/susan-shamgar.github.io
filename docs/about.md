@@ -9,15 +9,15 @@ Under construction
 
 And more construction
 
-## Work History
-### Technical Writer, [Inductive Automation](http://www.inductiveautomation.com)
-July 2021-present
+### Work History
+#### [Inductive Automation](http://www.inductiveautomation.com)
+**Technical Writer**, July 2021-present
 * Task
 * Project
 * Responsibility
 
-### Content Writer, [QuestBridge](http://www.questbridge.org)
-July 2019-July 2021
+#### [QuestBridge](http://www.questbridge.org)
+**Content Writer-- Data Science & Analytics**, July 2019-July 2021
 * Task
 * Project
 * Responsibility
