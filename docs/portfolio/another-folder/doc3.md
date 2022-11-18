@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Example 3
 ---
 ## And once more
