@@ -9,6 +9,7 @@ Under construction
 
 And more construction
 
+-------
 ### Work History
 #### [Inductive Automation](http://www.inductiveautomation.com)
 **Technical Writer**, July 2021-present
@@ -21,4 +22,4 @@ And more construction
 * Task
 * Project
 * Responsibility
-
+-------
